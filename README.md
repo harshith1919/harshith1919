@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshith1919
 - 👀 I’m interested in Programming, Machine learning and Web Development
-- 🌱 I’m currently pursuing engineering in Computer Science
-- 💞️ I’m looking to collaborate on any sort of project related to programming,machine learning and web development
+- 🌱 I’m currently pursuing Masters in Computer Science from University of Florida
+- 💞️ I’m looking to collaborate on any sort of project related to Software Development,Machine Learning and Web Development
 - 📫 You can reach me through Gmail : mundadaharshith@gmail.com
 
 <!---
